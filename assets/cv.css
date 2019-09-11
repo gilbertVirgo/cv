@@ -1,0 +1,40 @@
+@charset "utf-8";
+	.NormalCharacterStyle3
+{
+	font-family : Myriad Pro;
+	font-size : 10px;
+	line-height : 15px;
+	color : #6D6E71;
+	color : rgb(109, 110, 113);
+}
+.NormalCharacterStyle4
+{
+	font-family : Source Sans Pro;
+	font-size : 30px;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}
+.NormalCharacterStyle2
+{
+	font-family : Source Sans Pro;
+	font-size : 11px;
+	line-height : 15px;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}
+.NormalCharacterStyle1
+{
+	font-family : Myriad Pro;
+	font-size : 11px;
+	line-height : 15px;
+	color : #231F20;
+	color : rgb(35, 31, 32);
+}
+.NormalCharacterStyle
+{
+	font-family : Source Sans Pro;
+	font-size : 10px;
+	line-height : 15px;
+	color : #6D6E71;
+	color : rgb(109, 110, 113);
+}
